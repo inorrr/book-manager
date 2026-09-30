@@ -59,6 +59,6 @@ BOOK_MANAGER_AGENT_DELAY=0 ./workflows/get_recommendations.sh --non-interactive
 
 ## Demo video
 
-Record a short narrated terminal demo before submission and add the video file or link here. A concise narration and shot list are provided in [`DEMO_SCRIPT.md`](DEMO_SCRIPT.md).
+Watch the short narrated terminal walkthrough: **[Stories & Spaces demo video](https://youtu.be/LvSw1NOgG00)**.
 
-**Demo video:** _Add link before submission._
+The accompanying narration and shot list are available in [`DEMO_SCRIPT.md`](DEMO_SCRIPT.md).
